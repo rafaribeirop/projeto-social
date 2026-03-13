@@ -1,15 +1,15 @@
-# Projeto Social 📱
+## 📱 Social Media Project
 
-Projeto desenvolvido com HTML e CSS simulando um celular com acesso a diferentes redes sociais.
+A small project built with HTML and CSS that simulates a smartphone interface with access to different social media pages.
 
-## 📚 Objetivo
+### 📚 Goal
 
-Praticar:
+Practice:
 
-- layout com HTML e CSS
-- uso de iframe
-- navegação entre páginas
-- criação de interface simulando dispositivos
+- HTML and CSS layout
+- using iframes
+- navigation between pages
+- creating an interface that simulates a mobile device
 
-## 🌐 Projeto online
+### 🌐 View the Project
 https://rafaribeirop.github.io/projeto-social/
